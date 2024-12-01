@@ -10,5 +10,5 @@ Ensure you have the following installed:
 ## Step 1: Clone the Repository
 Clone the GitHub repository to your local machine:
 ```bash
-git clone https://github.com/aaqil-25/Autonomous-Behaviour-Algorithms.git
-cd Autonomous-Behaviour-Algorithms
+git clone https://github.com/Aaqil-25/Autonomous-Behavior-Algorithms.git
+cd Autonomous-Behavior-Algorithms
