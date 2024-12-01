@@ -8,5 +8,5 @@ This repository features algorithms for autonomous navigation, obstacle avoidanc
 - Decision-making with finite state machines and reinforcement learning
 
 ## How to Get Started
-- Clone the repository: `git clone https://github.com/your-username/Autonomous-Behavior-Algorithms.git`
+- Clone the repository: `git clone https://github.com/Aaqil-25/Autonomous-Behavior-Algorithms.git`
 - Follow the instructions in the [docs/installation_guide.md](docs/installation_guide.md).
